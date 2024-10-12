@@ -125,7 +125,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -602,6 +602,10 @@
     [
       "22e6d3b9-c1ce-4c36-8ab3-46a8949bbcab",
       "Rotark"
+    ],
+    [
+      "8596f468-a259-4c23-b0e5-75dac96c8d59",
+      "Data"
     ]
   ],
   "text_variables": {}
